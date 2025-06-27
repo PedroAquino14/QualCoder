@@ -34,49 +34,49 @@
     <message>
         <location filename="ui_dialog_charts.py" line="281"/>
         <source>Charts displayed in the default web browser</source>
-        <translation>Gráficos apresentados no navegador web predefinido</translation>
+        <translation>Gráficos abrirão no navegador padrão</translation>
     </message>
     <message>
         <location filename="ui_dialog_charts.py" line="282"/>
         <source>Pie charts</source>
-        <translation>Gráficos de tartes</translation>
+        <translation>Gráficos em pizza</translation>
     </message>
     <message>
         <location filename="ui_dialog_charts.py" line="283"/>
         <source>Bar charts</source>
-        <translation>Gráficos de barras</translation>
+        <translation>Gráficos em barras</translation>
     </message>
     <message>
         <location filename="ui_dialog_charts.py" line="284"/>
         <source>Sunburst and treemap charts</source>
-        <translation>Gráficos de Sunburst e mapas de árvores</translation>
+        <translation>Gráficos de Mapa de calor</translation>
     </message>
     <message>
         <location filename="ui_dialog_charts.py" line="285"/>
         <source>Select coder</source>
-        <translation>Seleccionar codificador</translation>
+        <translation>Selecionar codificador</translation>
     </message>
     <message>
         <location filename="ui_dialog_charts.py" line="286"/>
         <source>Select file</source>
-        <translation>Seleccionar ficheiro</translation>
+        <translation>Selecionar arquivo</translation>
     </message>
     <message>
         <location filename="ui_dialog_charts.py" line="289"/>
         <source>If portions of a text file are assigned to a case, the code frequency and total text characters may be incorrect.
 Codings from the entire text file are used for the calculations.</source>
-        <translation>Se partes de um ficheiro de texto forem atribuídas a um caso, a frequência do código e os caracteres totais do texto podem estar incorrectos.
-As codificações de todo o ficheiro de texto são utilizadas para os cálculos.</translation>
+        <translation>Se partes de um arquivo de texto forem atribuídas a um caso, a frequência do código e os caracteres totais do texto podem estar incorrectos.
+As codificações de todo o arquivo de texto são utilizadas para os cálculos.</translation>
     </message>
     <message>
         <location filename="ui_dialog_charts.py" line="291"/>
         <source>Select case</source>
-        <translation>Seleccione o caso</translation>
+        <translation>Selecione o caso</translation>
     </message>
     <message>
         <location filename="ui_dialog_charts.py" line="292"/>
         <source>Select attributes</source>
-        <translation>Seleccionar atributos</translation>
+        <translation>Selecionar atributos</translation>
     </message>
     <message>
         <location filename="ui_dialog_charts.py" line="293"/>
@@ -91,22 +91,22 @@ As codificações de todo o ficheiro de texto são utilizadas para os cálculos.
     <message>
         <location filename="ui_dialog_charts.py" line="295"/>
         <source>&lt;b&gt;Data filters&lt;/b&gt;</source>
-        <translation>&amp;lt;b&amp;gt; Filtros de dados&amp;lt;/b&amp;gt;</translation>
+        <translation>&lt;b&gt;Filtros de dados&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_charts.py" line="296"/>
         <source>&lt;b&gt;Coding charts&lt;/b&gt;</source>
-        <translation>&amp;lt;b&amp;gt;Gráficos de codificação&amp;lt;/b&amp;gt;</translation>
+        <translation type="unfinished">&lt;b&gt;Gráficos dos Códigos&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_charts.py" line="297"/>
         <source>Select category</source>
-        <translation>Seleccione a categoria</translation>
+        <translation>Selecione a categoria</translation>
     </message>
     <message>
         <location filename="ui_dialog_charts.py" line="298"/>
         <source>&lt;b&gt;Attribute charts&lt;/b&gt;</source>
-        <translation>&amp;lt;b&amp;gt;Gráficos de atributos&amp;lt;/b&amp;gt;</translation>
+        <translation>&lt;b&gt;Gráficos de atributos&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_charts.py" line="299"/>
@@ -116,12 +116,12 @@ As codificações de todo o ficheiro de texto são utilizadas para os cálculos.
     <message>
         <location filename="ui_dialog_charts.py" line="300"/>
         <source>Character attributes</source>
-        <translation>Atributos de carácter</translation>
+        <translation>Atributos de carácteres</translation>
     </message>
     <message>
         <location filename="ui_dialog_charts.py" line="301"/>
         <source>File</source>
-        <translation>Ficheiro</translation>
+        <translation>Arquivo</translation>
     </message>
     <message>
         <location filename="ui_dialog_charts.py" line="302"/>
@@ -131,12 +131,12 @@ As codificações de todo o ficheiro de texto são utilizadas para os cálculos.
     <message>
         <location filename="ui_dialog_charts.py" line="303"/>
         <source>Export HTML file</source>
-        <translation>Exportar ficheiro HTML</translation>
+        <translation>Exportar arquivo em HTML</translation>
     </message>
     <message>
         <location filename="ui_dialog_charts.py" line="304"/>
         <source>&lt;b&gt;Heatmap charts&lt;/b&gt;</source>
-        <translation>&amp;lt;b&amp;gt;Gráficos do mapa de aquecimento&amp;lt;/b&amp;gt;</translation>
+        <translation>&lt;b&gt;Gráficos de mapa de calor&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_charts.py" line="305"/>
@@ -146,12 +146,12 @@ As codificações de todo o ficheiro de texto são utilizadas para os cálculos.
     <message>
         <location filename="ui_dialog_charts.py" line="306"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Background&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Antecedentes</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Antecedentes&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_charts.py" line="307"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Foreground&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Primeiro plano</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Primeiro plano&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_charts.py" line="321"/>
@@ -274,7 +274,7 @@ nuvem de palavras</translation>
         <location filename="ui_dialog_graph.py" line="123"/>
         <source>Load graph
 Right-click for options</source>
-        <translation>Gráfico de carga
+        <translation>Carregar Gráfico
 Clique com o botão direito do mouse sobre as opções</translation>
     </message>
     <message>
@@ -290,7 +290,7 @@ Clique com o botão direito do mouse sobre as opções</translation>
     <message>
         <location filename="ui_dialog_graph.py" line="127"/>
         <source>Add case items</source>
-        <translation>Adicionar itens de caixa</translation>
+        <translation>Adicionar itens de caso</translation>
     </message>
     <message>
         <location filename="ui_dialog_graph.py" line="128"/>
@@ -310,12 +310,12 @@ Clique com o botão direito do mouse sobre as opções</translation>
     <message>
         <location filename="ui_dialog_graph.py" line="131"/>
         <source>Clear</source>
-        <translation>Clear</translation>
+        <translation>Limpar</translation>
     </message>
     <message>
         <location filename="ui_dialog_graph.py" line="132"/>
         <source>Changing to another report will lose unsaved graph.</source>
-        <translation>A mudança para outro relatório perderá o gráfico não guardado.</translation>
+        <translation>A mudança para outro relatório perderá o gráfico não salvo.</translation>
     </message>
     <message>
         <location filename="ui_dialog_graph.py" line="133"/>
@@ -358,7 +358,7 @@ Clique com o botão direito do mouse sobre as opções</translation>
     <message>
         <location filename="ui_report_matching_segments.py" line="108"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Exact match text segments report&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Relatório de segmentos de texto de correspondência exata</translation>
+        <translation>Relatório de segmentos de texto com correspondência exata</translation>
     </message>
     <message>
         <location filename="ui_report_matching_segments.py" line="109"/>
@@ -383,7 +383,7 @@ Clique com o botão direito do mouse sobre as opções</translation>
     <message>
         <location filename="ui_report_matching_segments.py" line="113"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Coded text must include the text here.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Coded text must include the text here.</translation>
+        <translation>Texto Codificado deve incluir texto aqui</translation>
     </message>
     <message>
         <location filename="ui_report_matching_segments.py" line="114"/>
@@ -433,7 +433,7 @@ Marcado - todos os códigos selecionados devem corresponder exatamente.</transla
     <message>
         <location filename="ui_dialog_organiser.py" line="65"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Create category&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Criar categoria</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Criar categoria&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_organiser.py" line="66"/>
@@ -891,7 +891,7 @@ pt-AU</translation>
     <message>
         <location filename="ui_dialog_cooccurrence.py" line="82"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Show the overlapping codes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Mostre os códigos sobrepostos.</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mostre os códigos sobrepostos.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_cooccurrence.py" line="83"/>
@@ -901,7 +901,7 @@ pt-AU</translation>
     <message>
         <location filename="ui_dialog_cooccurrence.py" line="84"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Export to file&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Exportar para arquivar</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Exportar para arquivo&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_cooccurrence.py" line="85"/>
@@ -911,17 +911,17 @@ pt-AU</translation>
     <message>
         <location filename="ui_dialog_cooccurrence.py" line="86"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select files&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Seleccionar ficheiros</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Selecionar arquivos&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_cooccurrence.py" line="87"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select categories&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Selecionar categorias</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Selecionar categorias&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_cooccurrence.py" line="88"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select codes&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Selecionar códigos</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Selecionar códigos&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -949,8 +949,7 @@ pt-AU</translation>
     <message>
         <location filename="ui_dialog_import.py" line="94"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Delimiter must be a single character.&lt;/p&gt;&lt;p&gt;Enter &apos;ta&apos; for &apos;tab&apos;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Delimiter deve ser um único caractere.
-Enter &apos;ta&apos; para &apos;tab&apos;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Delimiter deve ser um único caractere.&lt;/p&gt;&lt;p&gt;Enter &apos;ta&apos; para &apos;tab&apos;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_import.py" line="95"/>
@@ -965,7 +964,7 @@ Enter &apos;ta&apos; para &apos;tab&apos;</translation>
     <message>
         <location filename="ui_dialog_import.py" line="97"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;NONE 123, abc&lt;/p&gt;&lt;p&gt;MINIMAL 123, &amp;quot;abc&amp;quot;&lt;/p&gt;&lt;p&gt;ALL &amp;quot;123&amp;quot;, &amp;quot;abc&amp;quot;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation></translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;head/&amp;gt;&amp;lt;body&amp;gt;&amp;lt;p&amp;gt;NONE 123, abc&amp;lt;/p&amp;gt;&amp;gt;p&amp;gt;MINIMAL 123, &amp;quot;abc&amp;quot;&amp;lt;/p&amp;gt;&amp;gt;p&amp;gt;ALL &amp;quot;123&amp;quot;, &amp;quot;abc&amp;quot;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;gt;br/&amp;gt;&amp;gt;/p&amp;gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_import.py" line="98"/>
@@ -990,7 +989,7 @@ Enter &apos;ta&apos; para &apos;tab&apos;</translation>
     <message>
         <location filename="ui_dialog_import.py" line="102"/>
         <source>Press OK to import.</source>
-        <translation>Prima OK para importar.</translation>
+        <translation>Aperte OK para importar.</translation>
     </message>
     <message>
         <location filename="ui_dialog_import.py" line="103"/>
@@ -1014,17 +1013,17 @@ Se não estiver marcado: Cada resposta qualitativa será um arquivo de texto ind
     <message>
         <location filename="ui_import_twitter.py" line="54"/>
         <source>Import twitter data file</source>
-        <translation>Importar ficheiro de dados do twitter</translation>
+        <translation>Importar arquivo de dados do twitter</translation>
     </message>
     <message>
         <location filename="ui_import_twitter.py" line="55"/>
         <source>Use the R statistics package to get the twitter data and create a csv file. Then import the csv file.</source>
-        <translation>Utilize o pacote estatístico R para obter os dados do Twitter e criar um ficheiro csv. Em seguida, importe o ficheiro csv.</translation>
+        <translation>Utilize o pacote estatístico R para obter os dados do Twitter e criar um arquivo csv. Em seguida, importe o arquivo csv.</translation>
     </message>
     <message>
         <location filename="ui_import_twitter.py" line="56"/>
         <source>Select file</source>
-        <translation>Seleccionar ficheiro</translation>
+        <translation>Selecionar arquivo</translation>
     </message>
 </context>
 <context>
@@ -1093,7 +1092,7 @@ Se não estiver marcado: Cada resposta qualitativa será um arquivo de texto ind
     <message>
         <location filename="ui_dialog_add_item.py" line="40"/>
         <source>Add Code</source>
-        <translation>Acrescentar Código</translation>
+        <translation>Adicionar Código</translation>
     </message>
     <message>
         <location filename="ui_dialog_add_item.py" line="41"/>
@@ -1154,7 +1153,7 @@ Se não estiver marcado: Cada resposta qualitativa será um arquivo de texto ind
     <message>
         <location filename="ui_dialog_assign_attribute.py" line="47"/>
         <source>Files</source>
-        <translation>Ficheiros</translation>
+        <translation>Arquivos</translation>
     </message>
     <message>
         <location filename="ui_dialog_assign_attribute.py" line="48"/>
@@ -1164,7 +1163,7 @@ Se não estiver marcado: Cada resposta qualitativa será um arquivo de texto ind
     <message>
         <location filename="ui_dialog_assign_attribute.py" line="49"/>
         <source>Journals</source>
-        <translation>Revistas</translation>
+        <translation>Diarios</translation>
     </message>
 </context>
 <context>
@@ -1172,12 +1171,12 @@ Se não estiver marcado: Cada resposta qualitativa será um arquivo de texto ind
     <message>
         <location filename="ui_case_file_manager.py" line="82"/>
         <source>Case file manager</source>
-        <translation>Gestor de ficheiro de caso</translation>
+        <translation>Gestor de arquivos de caso</translation>
     </message>
     <message>
         <location filename="ui_case_file_manager.py" line="83"/>
         <source>Actions</source>
-        <translation>Acções</translation>
+        <translation>Ações</translation>
     </message>
     <message>
         <location filename="ui_case_file_manager.py" line="84"/>
@@ -1187,22 +1186,22 @@ Se não estiver marcado: Cada resposta qualitativa será um arquivo de texto ind
     <message>
         <location filename="ui_case_file_manager.py" line="84"/>
         <source>Auto assign file text to case</source>
-        <translation>Atribuição automática de texto de ficheiro ao caso</translation>
+        <translation>Atribuição automática de texto de arquivo ao caso</translation>
     </message>
     <message>
         <location filename="ui_case_file_manager.py" line="85"/>
         <source>Add selected files to case</source>
-        <translation>Adicionar ficheiros seleccionados ao processo</translation>
+        <translation>Adicionar arquivos selecionados ao processo</translation>
     </message>
     <message>
         <location filename="ui_case_file_manager.py" line="86"/>
         <source>Remove selected files from case</source>
-        <translation>Remover ficheiros seleccionados do caso</translation>
+        <translation>Remover arquivos selecionados do caso</translation>
     </message>
     <message>
         <location filename="ui_case_file_manager.py" line="88"/>
         <source>Can assign text in a file to this case. Right click to mark selected text in a file to assign to this case.</source>
-        <translation>Pode atribuir texto num ficheiro a este caso. Clique com o botão direito do rato para marcar o texto seleccionado num ficheiro para atribuir a este caso.</translation>
+        <translation>Pode atribuir texto num arquivo a este caso. Clique com o botão para marcar o texto seleccionado num arquivo para atribuir a este caso.</translation>
     </message>
     <message>
         <location filename="ui_case_file_manager.py" line="89"/>
@@ -1212,17 +1211,17 @@ Se não estiver marcado: Cada resposta qualitativa será um arquivo de texto ind
     <message>
         <location filename="ui_case_file_manager.py" line="91"/>
         <source>File:</source>
-        <translation>Ficheiro:</translation>
+        <translation>Arquivo:</translation>
     </message>
     <message>
         <location filename="ui_case_file_manager.py" line="92"/>
         <source>Files linked: </source>
-        <translation>Ficheiros ligados: </translation>
+        <translation>Arquivos ligados: </translation>
     </message>
     <message>
         <location filename="ui_case_file_manager.py" line="90"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Double click the file row to view image, audio, or video&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Clique duas vezes na linha do ficheiro para ver a imagem, o áudio ou o vídeo</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Clique duas vezes na linha do ficheiro para ver a imagem, o áudio ou o vídeo&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_case_file_manager.py" line="87"/>
@@ -1255,19 +1254,17 @@ Se não estiver marcado: Cada resposta qualitativa será um arquivo de texto ind
     <message>
         <location filename="ui_dialog_cases.py" line="107"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Delete case&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Eliminar caso</translation>
+        <translation>Excluir caso</translation>
     </message>
     <message>
         <location filename="ui_dialog_cases.py" line="108"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Import cases&lt;/p&gt;&lt;p&gt;Import from a csv or xlsx file.&lt;/p&gt;&lt;p&gt;The file must have a header row and the first column must have the unique case names or identifiers. Subsequent columns are attributes for each case.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Import cases
-Import from a csv or xlsx file.
- O arquivo deve ter uma linha de cabeçalho e a primeira coluna deve ter os nomes ou identificadores únicos dos casos. As colunas subsequentes são atributos para cada caso.</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Importar casos&lt;/p&gt;&lt;p&gt;Importar de um arquivo csv ou xlsx.&lt;/p&gt;&lt;p&gt;O arquivo deve ter uma linha de cabeçalho e a primeira coluna deve ter os nomes ou identificadores únicos dos casos. As colunas subsequentes são atributos para cada caso.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_cases.py" line="109"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Add attribute&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Adicionar atributo</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Adicionar atributo&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_cases.py" line="110"/>
@@ -1277,12 +1274,12 @@ Import from a csv or xlsx file.
     <message>
         <location filename="ui_dialog_cases.py" line="111"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Case file manager&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Gerente de arquivo de casos</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gerente de arquivo de casos&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_cases.py" line="112"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Export attributes to file&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Atributos de exportação como arquivo csv</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Exportar atributos como arquivo csv&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_cases.py" line="113"/>
@@ -1292,7 +1289,7 @@ Import from a csv or xlsx file.
     <message>
         <location filename="ui_dialog_cases.py" line="105"/>
         <source>Double click case name to change the name. Click on Memo to edit a memo for the case. Click on Files to link files and file text to the case.</source>
-        <translation>Clique duas vezes no nome do caso para o alterar. Clique em Memorando para editar um memorando para o caso. Clique em Ficheiros para ligar ficheiros e texto de ficheiros ao caso.</translation>
+        <translation>Clique duas vezes no nome do caso para o alterar. Clique em Memorando para editar um memorando para o caso. Clique em Arquivos para ligar arquivos e texto de arquivos ao caso.</translation>
     </message>
 </context>
 <context>
@@ -1356,8 +1353,7 @@ Key shortcut: Ctrl S</source>
     <message>
         <location filename="ui_dialog_code_av.py" line="198"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ctrl + Shift + &amp;gt;     Increase play rate to maximum 2x &lt;/p&gt;&lt;p&gt;Ctrl + Shift + &amp;lt;    Decrease play rate to minimum 0.1&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Ctrl Shift &gt; Aumentar a taxa de jogo para o máximo 2x
-Ctrl Shift &lt;  Diminuir a taxa de jogo para o mínimo 0,1</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;head/&amp;gt;&amp;lt;body&amp;gt;&amp;lt;p&amp;gt;Ctrl + Shift + &amp;gt; Aumentar a taxa de jogo para o máximo 2x &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Ctrl + Shift + &amp;lt; Diminuir a taxa de jogo para o mínimo 0,1&amp;lt;/p&amp;gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_code_av.py" line="199"/>
@@ -1377,12 +1373,12 @@ Ctrl Shift &lt;  Diminuir a taxa de jogo para o mínimo 0,1</translation>
     <message>
         <location filename="ui_dialog_code_av.py" line="202"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Decrease play rate&lt;/p&gt;&lt;p&gt;Ctrl + Shift + &amp;lt; &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Diminuir a taxa de jogo  Ctrl Shift &lt;</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;head/&amp;gt;&amp;lt;body&amp;gt;&amp;lt;p&amp;gt;Diminuir a taxa de jogo&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Ctrl + Shift + &amp;lt; &amp;lt;/p&amp;gt;&amp;gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_code_av.py" line="203"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Increase play rate&lt;/p&gt;&lt;p&gt;Ctrl + Shift + &amp;gt; &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Rebobinar 5 segundos  Alt + R</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;head/&amp;gt;&amp;lt;body&amp;gt;&amp;lt;p&amp;gt; Rebobinar 5 segundos&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Alt + R&amp;lt;/p&amp;gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_code_av.py" line="182"/>
@@ -1676,17 +1672,17 @@ Em seguida, um menu de opções será aberto.
     <message>
         <location filename="ui_dialog_code_colours.py" line="97"/>
         <source>Codes colour scheme. Select colours in order. Select codes. Apply.</source>
-        <translation>Esquema de cores dos códigos. Seleccionar as cores por ordem. Seleccionar os códigos. Aplicar.</translation>
+        <translation>Esquema de cores dos códigos. Selecionar as cores por ordem. Selecionar os códigos. Aplicar.</translation>
     </message>
     <message>
         <location filename="ui_dialog_code_colours.py" line="98"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Undo all changes.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Anular todas as alterações.</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Desfazer todas as alterações.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_code_colours.py" line="102"/>
         <source>Clear selection</source>
-        <translation>Limpar selecção</translation>
+        <translation>Limpar seleção</translation>
     </message>
     <message>
         <location filename="ui_dialog_code_colours.py" line="100"/>
@@ -1715,17 +1711,17 @@ Em seguida, um menu de opções será aberto.
 <context>
     <name>Dialog_code_image</name>
     <message>
-        <location filename="ui_dialog_code_image.py" line="145"/>
+        <location filename="ui_dialog_code_image.py" line="125"/>
         <source>View Image</source>
         <translation>Ver imagem</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_image.py" line="160"/>
+        <location filename="ui_dialog_code_image.py" line="135"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;File memo&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Memo de arquivo</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_image.py" line="147"/>
+        <location filename="ui_dialog_code_image.py" line="127"/>
         <source>Coder:</source>
         <translation>Codificador:</translation>
     </message>
@@ -1735,111 +1731,86 @@ Em seguida, um menu de opções será aberto.
         <translation type="obsolete">Código:</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_image.py" line="149"/>
+        <location filename="ui_dialog_code_image.py" line="129"/>
         <source>Coded area:</source>
         <translation>Área codificada:</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_image.py" line="150"/>
+        <location filename="ui_dialog_code_image.py" line="130"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This coded area&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Esta área codificada</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_image.py" line="158"/>
+        <location filename="ui_dialog_code_image.py" line="133"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;File with latest coding&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Arquivo com a última codificação</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_image.py" line="159"/>
+        <location filename="ui_dialog_code_image.py" line="134"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Next file&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Próximo arquivo</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_image.py" line="151"/>
+        <location filename="ui_dialog_code_image.py" line="131"/>
         <source>Show codings flagged important</source>
         <translation>Mostrar codificações assinaladas como importantes</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_image.py" line="161"/>
+        <location filename="ui_dialog_code_image.py" line="136"/>
         <source>Show files using selected file attributes</source>
-        <translation>Mostrar ficheiros usando atributos de ficheiros seleccionados</translation>
+        <translation>Mostrar ficheiros usando atributos de arquivos selecionados</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_image.py" line="148"/>
+        <location filename="ui_dialog_code_image.py" line="128"/>
         <source>Image details</source>
         <translation>Detalhes da imagem</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_image.py" line="152"/>
+        <location filename="ui_dialog_code_image.py" line="132"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Export image as html file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Exportar imagem como arquivo html.</translation>
-    </message>
-    <message>
-        <location filename="ui_dialog_code_image.py" line="153"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Show captions&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Mostrar legendas</translation>
-    </message>
-    <message>
-        <location filename="ui_dialog_code_image.py" line="154"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Zoom in. W or +&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Ampliar W ou +</translation>
-    </message>
-    <message>
-        <location filename="ui_dialog_code_image.py" line="155"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Zoom out. Q or -&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Diminuir Q ou -</translation>
-    </message>
-    <message>
-        <location filename="ui_dialog_code_image.py" line="156"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Rotate counter-clockwise&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>girar no sentido anti-horário</translation>
-    </message>
-    <message>
-        <location filename="ui_dialog_code_image.py" line="157"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Rotate clockwise&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>girar no sentido horário</translation>
     </message>
 </context>
 <context>
     <name>Dialog_code_pdf</name>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="248"/>
+        <location filename="ui_dialog_code_pdf.py" line="240"/>
         <source>Code Text</source>
         <translation>Texto do Código</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="249"/>
+        <location filename="ui_dialog_code_pdf.py" line="241"/>
         <source>Coder:</source>
         <translation>Codificador:</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="250"/>
+        <location filename="ui_dialog_code_pdf.py" line="242"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Search for text.&lt;/p&gt;&lt;p&gt;check &lt;span style=&quot; font-weight:600;&quot;&gt;Case sensitive&lt;/span&gt; for case sensitive search&lt;/p&gt;&lt;p&gt;check &lt;span style=&quot; font-weight:600;&quot;&gt;All files&lt;/span&gt; for searching all files search&lt;/p&gt;
 &lt;p&gt;Right-click to change automatic searching options&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Pesquisa de texto. Sensível a maiúsculas e minúsculas, Todos os ficheiros. Clique com o botão direito do rato para alterar as opções de pesquisa automática.</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="252"/>
+        <location filename="ui_dialog_code_pdf.py" line="244"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;search case sensitive&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>sensível a casos de busca</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="253"/>
+        <location filename="ui_dialog_code_pdf.py" line="245"/>
         <source>0 / 0</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="276"/>
+        <location filename="ui_dialog_code_pdf.py" line="268"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Previous&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Anterior</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="277"/>
+        <location filename="ui_dialog_code_pdf.py" line="269"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Next&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Próximo</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="256"/>
+        <location filename="ui_dialog_code_pdf.py" line="248"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Search text. Case sensitive&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Texto de busca. Sensível a maiúsculas e minúsculas</translation>
     </message>
@@ -1849,12 +1820,12 @@ Em seguida, um menu de opções será aberto.
         <translation type="obsolete">Ajusta o tamanho da fonte do texto em pdf. Reduz as sobreposições de texto.</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="257"/>
+        <location filename="ui_dialog_code_pdf.py" line="249"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Search uses Regex functions. &lt;/p&gt;&lt;p&gt;A dot ‘.’ is used as a wild card, e.g. ‘.ears’ will match ‘bears’ and ‘years’. &lt;/p&gt;&lt;p&gt;A ‘?’ after a character will match one or none times that character, e.g. ‘bears?’ will match ‘bear’ and ‘bears’ &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; background-color:transparent;&quot;&gt;A ‘*’ after a character will match zero or more times. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; background-color:transparent;&quot;&gt;‘&lt;/span&gt;\. will match the dot symbol, ‘\?’ will match the question mark. ‘\n’ will match the line ending symbol. &lt;/p&gt;&lt;p&gt;Regex cheatsheet: www.rexegg.com/regex-quickstart.html&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>A pesquisa usa funções regex.</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="258"/>
+        <location filename="ui_dialog_code_pdf.py" line="250"/>
         <source>Help</source>
         <translation>Ajuda</translation>
     </message>
@@ -1864,144 +1835,134 @@ Em seguida, um menu de opções será aberto.
         <translation type="obsolete">Página</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="259"/>
+        <location filename="ui_dialog_code_pdf.py" line="251"/>
         <source>Curves</source>
         <translation>Curvas</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="260"/>
+        <location filename="ui_dialog_code_pdf.py" line="252"/>
         <source>Lines</source>
         <translation>Linhas</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="261"/>
+        <location filename="ui_dialog_code_pdf.py" line="253"/>
         <source>Images</source>
         <translation>Imagens</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="262"/>
+        <location filename="ui_dialog_code_pdf.py" line="254"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Useful if font colours are harder to see&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Útil se as cores da fonte forem mais difíceis de ver</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="263"/>
+        <location filename="ui_dialog_code_pdf.py" line="255"/>
         <source>Black Text</source>
         <translation>Texto em preto</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="264"/>
+        <location filename="ui_dialog_code_pdf.py" line="256"/>
         <source>Text</source>
         <translation>Texto</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="265"/>
+        <location filename="ui_dialog_code_pdf.py" line="257"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Rectangle objects&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Objetos retangulares</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="266"/>
+        <location filename="ui_dialog_code_pdf.py" line="258"/>
         <source>Rects</source>
         <translation>Retas</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="267"/>
+        <location filename="ui_dialog_code_pdf.py" line="259"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pdf font size adjustment&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Ajuste do tamanho da fonte do PDF</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="268"/>
+        <location filename="ui_dialog_code_pdf.py" line="260"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pages&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Páginas</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="269"/>
+        <location filename="ui_dialog_code_pdf.py" line="261"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;PDF object information&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Informações sobre o objeto PDF</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="270"/>
+        <location filename="ui_dialog_code_pdf.py" line="262"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Export image&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Exportar imagem</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="282"/>
+        <location filename="ui_dialog_code_pdf.py" line="272"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;File with latest coding&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Arquivo com a última codificação</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="283"/>
+        <location filename="ui_dialog_code_pdf.py" line="273"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Go to bookmark&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Ir para o marcador de página</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="284"/>
+        <location filename="ui_dialog_code_pdf.py" line="274"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Next file&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Próximo arquivo</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="285"/>
+        <location filename="ui_dialog_code_pdf.py" line="275"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;File memo&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Memo de arquivo</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="286"/>
+        <location filename="ui_dialog_code_pdf.py" line="276"/>
         <source>Show files with file attributes</source>
         <translation>Mostrar ficheiros com atributos de ficheiro</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="287"/>
+        <location filename="ui_dialog_code_pdf.py" line="277"/>
         <source>Show codings flagged important</source>
         <translation>Mostrar codificações assinaladas como importantes</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="288"/>
+        <location filename="ui_dialog_code_pdf.py" line="278"/>
         <source>Right click below to create new codes and categories</source>
         <translation>Clique com o botão direito do rato abaixo para criar novos códigos e categorias</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="271"/>
+        <location filename="ui_dialog_code_pdf.py" line="263"/>
         <source>0</source>
         <translation>0</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="272"/>
+        <location filename="ui_dialog_code_pdf.py" line="264"/>
         <source>-1</source>
         <translation>-1</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="273"/>
+        <location filename="ui_dialog_code_pdf.py" line="265"/>
         <source>-2</source>
         <translation>-2</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="274"/>
+        <location filename="ui_dialog_code_pdf.py" line="266"/>
         <source>-3</source>
         <translation>-3</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="275"/>
+        <location filename="ui_dialog_code_pdf.py" line="267"/>
         <source>-4</source>
         <translation>-4</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="278"/>
+        <location filename="ui_dialog_code_pdf.py" line="270"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Last Page&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Última página</translation>
     </message>
     <message>
-        <location filename="ui_dialog_code_pdf.py" line="279"/>
+        <location filename="ui_dialog_code_pdf.py" line="271"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Go to page&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Ir para a página</translation>
-    </message>
-    <message>
-        <location filename="ui_dialog_code_pdf.py" line="280"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Zoom in (Shift Plus)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Aumentar o zoom (Shift +)</translation>
-    </message>
-    <message>
-        <location filename="ui_dialog_code_pdf.py" line="281"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Zoom Out (Ctrl Minus)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Diminuir zoom (Ctrl-)</translation>
     </message>
 </context>
 <context>
@@ -2014,7 +1975,7 @@ Em seguida, um menu de opções será aberto.
     <message>
         <location filename="ui_dialog_report_code_summary.py" line="68"/>
         <source>Code summary report</source>
-        <translation>Relatório de síntese do código</translation>
+        <translation>Relatório de resumo do código</translation>
     </message>
     <message>
         <location filename="ui_dialog_report_code_summary.py" line="65"/>
@@ -2037,7 +1998,7 @@ Em seguida, um menu de opções será aberto.
     <message>
         <location filename="ui_dialog_code_text.py" line="402"/>
         <source>Code Text</source>
-        <translation>Texto do Código</translation>
+        <translation>Codificar Texto</translation>
     </message>
     <message>
         <location filename="ui_dialog_code_text.py" line="286"/>
@@ -2052,7 +2013,7 @@ Em seguida, um menu de opções será aberto.
     <message>
         <location filename="ui_dialog_code_text.py" line="464"/>
         <source>Right click below to create new codes and categories</source>
-        <translation>Clique com o botão direito do rato abaixo para criar novos códigos e categorias</translation>
+        <translation>Clique com o botão direito abaixo para criar novos códigos e categorias</translation>
     </message>
     <message>
         <location filename="ui_dialog_code_text.py" line="234"/>
@@ -2062,7 +2023,7 @@ Em seguida, um menu de opções será aberto.
     <message>
         <location filename="ui_dialog_code_text.py" line="407"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;search case sensitive&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>sensível a casos de busca</translation>
+        <translation>Busca sensível a Maiusculas</translation>
     </message>
     <message>
         <location filename="ui_dialog_code_text.py" line="408"/>
@@ -2117,12 +2078,12 @@ Em seguida, um menu de opções será aberto.
     <message>
         <location filename="ui_dialog_code_text.py" line="417"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Delete all codes by this coder from this file&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Eliminar todos os códigos por este codificador deste arquivo</translation>
+        <translation>Excluir todos os códigos por este codificador deste arquivo</translation>
     </message>
     <message>
         <location filename="ui_dialog_code_text.py" line="418"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Annotate selection&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Seleção de anotados</translation>
+        <translation>Seleção de anotações</translation>
     </message>
     <message>
         <location filename="ui_dialog_code_text.py" line="419"/>
@@ -2177,8 +2138,7 @@ Em seguida, um menu de opções será aberto.
     <message>
         <location filename="ui_dialog_code_text.py" line="420"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Text font size.&lt;/p&gt;&lt;p&gt;A default size can be set in Settings.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Tamanho de letra de texto.
-Um tamanho por defeito pode ser definido em Settings.</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Tamanho de letra de texto.&lt;/p&gt;&lt;p&gt;Um tamanho padrão pode ser definido em Configurações.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_code_text.py" line="422"/>
@@ -2193,7 +2153,7 @@ Um tamanho por defeito pode ser definido em Settings.</translation>
     <message>
         <location filename="ui_dialog_code_text.py" line="453"/>
         <source>Show files with file attributes</source>
-        <translation>Mostrar ficheiros com atributos de ficheiro</translation>
+        <translation>Mostrar arquivos com atributos</translation>
     </message>
     <message>
         <location filename="ui_dialog_code_text.py" line="463"/>
@@ -2204,7 +2164,7 @@ Um tamanho por defeito pode ser definido em Settings.</translation>
         <location filename="ui_dialog_code_text.py" line="405"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Search for text.&lt;/p&gt;&lt;p&gt;check &lt;span style=&quot; font-weight:600;&quot;&gt;Case sensitive&lt;/span&gt; for case sensitive search&lt;/p&gt;&lt;p&gt;check &lt;span style=&quot; font-weight:600;&quot;&gt;All files&lt;/span&gt; for searching all files search&lt;/p&gt;
 &lt;p&gt;Right-click to change automatic searching options&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Pesquisa de texto. Sensível a maiúsculas e minúsculas, Todos os ficheiros. Clique com o botão direito do rato para alterar as opções de pesquisa automática.</translation>
+        <translation>Pesquisa de texto. Sensível a maiúsculas e minúsculas, Todos os arquivos. Clique com o botão direito para alterar as opções de pesquisa automática.</translation>
     </message>
     <message>
         <location filename="ui_dialog_code_text.py" line="424"/>
@@ -2224,12 +2184,12 @@ Um tamanho por defeito pode ser definido em Settings.</translation>
     <message>
         <location filename="ui_dialog_code_text.py" line="466"/>
         <source>Current journal</source>
-        <translation>Revista actual</translation>
+        <translation>Diário atual</translation>
     </message>
     <message>
         <location filename="ui_dialog_code_text.py" line="467"/>
         <source>Project memo</source>
-        <translation>Memo do projecto</translation>
+        <translation>Memo do projeto</translation>
     </message>
     <message>
         <location filename="ui_dialog_code_text.py" line="468"/>
@@ -2250,13 +2210,11 @@ Avoid selecting text to delete or paste over if the selected text is underlined:
 (coded - red, annotated - yellow, case-assigned - green)
 As all assigned positions may be incorrect. </source>
         <translation>Editar texto 
-Clique numa posição, sem seleccionar texto, para digitar, apagar, ou colar texto. 
-Seleccionar texto que não esteja sublinhado e apagar ou colar por cima. 
-Evitar seleccionar texto para apagar ou colar se o texto seleccionado estiver sublinhado:
+Clique numa posição, sem selecionar texto, para digitar, apagar, ou colar texto. 
+Selecionar texto que não esteja sublinhado e apagar ou colar por cima. 
+Evitar selecionar texto para apagar ou colar se o texto selecionado estiver sublinhado:
 (codificado - vermelho, anotado - amarelo, atribuído a maiúsculas e minúsculas - verde)
-Uma vez que todas as posições atribuídas podem estar incorrectas. 
-
-Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator</translation>
+Uma vez que todas as posições atribuídas podem estar incorrectas. </translation>
     </message>
     <message>
         <location filename="ui_dialog_code_text.py" line="433"/>
@@ -2276,7 +2234,7 @@ Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator</transla
     <message>
         <location filename="ui_dialog_code_text.py" line="403"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Auto code with exact text.&lt;/p&gt;&lt;p&gt;Right click for options: all, first, last.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Auto code with exact text. Right click for options: all, first, last</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Auto code com texto exato.&lt;/p&gt;&lt;p&gt;clique com botãodireito: todos, primeiro, ultimo.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_code_text.py" line="421"/>
@@ -2422,7 +2380,7 @@ Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator</transla
     <message>
         <location filename="ui_dialog_confirm_delete.py" line="34"/>
         <source>Confirm Delete</source>
-        <translation>Confirmar Eliminar</translation>
+        <translation>Confirmar Excluir</translation>
     </message>
     <message>
         <location filename="ui_dialog_confirm_delete.py" line="35"/>
@@ -2435,12 +2393,12 @@ Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator</transla
     <message>
         <location filename="ui_dialog_report_file_summary.py" line="64"/>
         <source>File summary</source>
-        <translation>Resumo do ficheiro</translation>
+        <translation>Resumo do arquivo</translation>
     </message>
     <message>
         <location filename="ui_dialog_report_file_summary.py" line="68"/>
         <source>File summary report</source>
-        <translation>Relatório de resumo do ficheiro</translation>
+        <translation>Relatório de resumo do arquivo</translation>
     </message>
     <message>
         <location filename="ui_dialog_report_file_summary.py" line="64"/>
@@ -2476,32 +2434,32 @@ Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator</transla
     <message>
         <location filename="ui_dialog_journals.py" line="125"/>
         <source>Journals</source>
-        <translation>Revistas</translation>
+        <translation>Diarios</translation>
     </message>
     <message>
         <location filename="ui_dialog_journals.py" line="126"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Create&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Criar</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Criar&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_journals.py" line="127"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Export&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Exportação</translation>
+        <translation>Exportar</translation>
     </message>
     <message>
         <location filename="ui_dialog_journals.py" line="128"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Delete&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Eliminar</translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <location filename="ui_dialog_journals.py" line="129"/>
         <source>Journal:</source>
-        <translation>Revista:</translation>
+        <translation>Diário:</translation>
     </message>
     <message>
         <location filename="ui_dialog_journals.py" line="130"/>
         <source>Journals: </source>
-        <translation>Revistas: </translation>
+        <translation>Diários: </translation>
     </message>
     <message>
         <location filename="ui_dialog_journals.py" line="142"/>
@@ -2516,12 +2474,12 @@ Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator</transla
     <message>
         <location filename="ui_dialog_journals.py" line="146"/>
         <source>Coder</source>
-        <translation>Coder</translation>
+        <translation>Codificador</translation>
     </message>
     <message>
         <location filename="ui_dialog_journals.py" line="131"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Export all journals as single text file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Exportar todos os periódicos como ficheiro de texto único.</translation>
+        <translation>Exportar todos os diarios como arquivo de texto único.</translation>
     </message>
     <message>
         <location filename="ui_dialog_journals.py" line="118"/>
@@ -2541,12 +2499,12 @@ Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator</transla
     <message>
         <location filename="ui_dialog_journals.py" line="135"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Search for text.&lt;/p&gt;&lt;p&gt;check &lt;span style=&quot; font-weight:600;&quot;&gt;All journals&lt;/span&gt; for searching all journals&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Pesquisa de texto - todos os jornais</translation>
+        <translation>Pesquisa de texto - todos os diarios</translation>
     </message>
     <message>
         <location filename="ui_dialog_journals.py" line="136"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;search all journals&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Pesquisar todos os jornais</translation>
+        <translation>Pesquisar todos os diarios</translation>
     </message>
     <message>
         <location filename="ui_dialog_journals.py" line="137"/>
@@ -2556,7 +2514,7 @@ Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator</transla
     <message>
         <location filename="ui_dialog_journals.py" line="138"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Search all journals&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pesquisar todos diarios&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_journals.py" line="139"/>
@@ -2594,12 +2552,12 @@ Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator</transla
     <message>
         <location filename="ui_dialog_manage_attributes.py" line="48"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Add&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Adicionar</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Adicionar&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_manage_attributes.py" line="49"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Delete&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Eliminar</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Excluir&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2607,27 +2565,27 @@ Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator</transla
     <message>
         <location filename="ui_dialog_manage_files.py" line="106"/>
         <source>Files</source>
-        <translation>Ficheiros</translation>
+        <translation>Arquivos</translation>
     </message>
     <message>
         <location filename="ui_dialog_manage_files.py" line="107"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;View file&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Exportar ficheiro seleccionado</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ver arquivo&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_manage_files.py" line="108"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Create a text file&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Criar um ficheiro de texto</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Criar um arquivo de texto&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_manage_files.py" line="112"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select files for deletion&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Seleccionar ficheiros para apagar</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Selecionar arquivo para apagar&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_manage_files.py" line="113"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Import file into project folder&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Importar ficheiro para a pasta do projecto</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Importar arquivo para a pasta do projeto&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_manage_files.py" line="114"/>
@@ -2637,22 +2595,22 @@ Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator</transla
     <message>
         <location filename="ui_dialog_manage_files.py" line="115"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Link to a file that is outside the project folder&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Exportar ficheiro da pasta do projecto como um ficheiro ligado</translation>
+        <translation>Exportar arquivo da pasta do projeto como um arquivo ligado</translation>
     </message>
     <message>
         <location filename="ui_dialog_manage_files.py" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Import linked file into project folder&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Importar ficheiro associado para a pasta do projecto</translation>
+        <translation>Importar arquivo associado para a pasta do projecto</translation>
     </message>
     <message>
         <location filename="ui_dialog_manage_files.py" line="119"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Export attributes to file&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Atributos de exportação como ficheiro csv</translation>
+        <translation>Exportar atributos para arquivo</translation>
     </message>
     <message>
         <location filename="ui_dialog_manage_files.py" line="121"/>
         <source>Files:</source>
-        <translation>Ficheiros:</translation>
+        <translation>Arquivos:</translation>
     </message>
     <message>
         <location filename="ui_dialog_manage_files.py" line="120"/>
@@ -2664,26 +2622,26 @@ Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator</transla
         <source>Export selected file.
 Text files (from any source) are exported from the text stored in the database as .txt files.
 (You can open the project folder and copy/paste the orignal text file if preferred.)</source>
-        <translation>Exportar ficheiro seleccionado.
-Os ficheiros de texto (de qualquer fonte) são exportados do texto armazenado na base de dados como ficheiros .txt.
-(Pode abrir a pasta do projecto e copiar/colar o ficheiro de texto original, se preferir).</translation>
+        <translation>Exportar arquivo selecionado.
+Os arquivos de texto (de qualquer fonte) são exportados do texto armazenado na base de dados como arquivo .txt.
+(Pode abrir a pasta do projeto e copiar/colar o arquivo de texto original, se preferir).</translation>
     </message>
     <message>
         <location filename="ui_dialog_manage_files.py" line="117"/>
         <source>Export file from project folder as a linked file.
 Cannot export text transcription file associated with an audio or video as a linked file.</source>
-        <translation>Exportar ficheiro da pasta do projecto como um ficheiro ligado.
-Não é possível exportar ficheiro de transcrição de texto associado a um ficheiro de áudio ou vídeo como ficheiro ligado.</translation>
+        <translation>Exportar arquivo da pasta do projeto como um arquivo ligado.
+Não é possível exportar arquivo de transcrição de texto associado a um arquivo de áudio ou vídeo como arquivo ligado.</translation>
     </message>
     <message>
         <location filename="ui_dialog_manage_files.py" line="124"/>
         <source>File:</source>
-        <translation>Ficheiro:</translation>
+        <translation>Arquivo:</translation>
     </message>
     <message>
         <location filename="ui_dialog_manage_files.py" line="122"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Undo file rename&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Anular a mudança de nome do ficheiro</translation>
+        <translation>Desfazer a mudança de nome do arquivo</translation>
     </message>
     <message>
         <location filename="ui_dialog_manage_files.py" line="123"/>
@@ -2698,12 +2656,12 @@ Por exemplo, interview_001</translation>
     <message>
         <location filename="ui_dialog_manage_links.py" line="44"/>
         <source>Manage file links</source>
-        <translation>Gerir ligações de ficheiros</translation>
+        <translation>Gerir ligações de arquivo</translation>
     </message>
     <message>
         <location filename="ui_dialog_manage_links.py" line="46"/>
         <source>Click on the file name to browse to the correct file location.</source>
-        <translation>Clique no nome do ficheiro para navegar para a localização correcta do ficheiro.</translation>
+        <translation>Clique no nome do arquivo para navegar para a localização correta do arquivo.</translation>
     </message>
     <message>
         <location filename="ui_dialog_manage_links.py" line="45"/>
@@ -2713,7 +2671,7 @@ Por exemplo, interview_001</translation>
     <message>
         <location filename="ui_dialog_manage_links.py" line="47"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Automatic search through folders for the file&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Busca automática do arquivo nas pastas</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Busca automática do arquivo nas pastas&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_manage_links.py" line="48"/>
@@ -2731,7 +2689,7 @@ Por exemplo, interview_001</translation>
     <message>
         <location filename="ui_manage_references.py" line="91"/>
         <source>Assign selected file(s) to selected reference. Press L or Link button below.</source>
-        <translation>Atribuir o(s) ficheiro(s) seleccionado(s) à referência seleccionada. Prima o botão L ou Ligação abaixo.</translation>
+        <translation>Atribuir o(s) arquivo(s) seleccionado(s) à referência selecionada. Aperte o botão L ou Botão link abaixo.</translation>
     </message>
     <message>
         <location filename="ui_manage_references.py" line="92"/>
@@ -2746,7 +2704,7 @@ Por exemplo, interview_001</translation>
     <message>
         <location filename="ui_manage_references.py" line="94"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Delete selected reference&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Eliminar a referência selecionada</translation>
+        <translation>Excluir a referência selecionada</translation>
     </message>
     <message>
         <location filename="ui_manage_references.py" line="95"/>
@@ -2791,7 +2749,7 @@ A vinculação pode estar incorreta. Revise após aplicar a função.</translati
     <message>
         <location filename="ui_dialog_memo.py" line="44"/>
         <source>Clear</source>
-        <translation>Clear</translation>
+        <translation>Limpar</translation>
     </message>
 </context>
 <context>
@@ -2799,17 +2757,17 @@ A vinculação pode estar incorreta. Revise após aplicar a função.</translati
     <message>
         <location filename="ui_move_resize_rectangle.py" line="69"/>
         <source>Move and Resize</source>
-        <translation>Mudar e Redimensionar</translation>
+        <translation>Mover e Redimensionar</translation>
     </message>
     <message>
         <location filename="ui_move_resize_rectangle.py" line="70"/>
         <source>Move horizontally</source>
-        <translation>Mova-se horizontalmente</translation>
+        <translation>Mover horizontalmente</translation>
     </message>
     <message>
         <location filename="ui_move_resize_rectangle.py" line="71"/>
         <source>Move vertically</source>
-        <translation>Movimentar-se verticalmente</translation>
+        <translation>Mover verticalmente</translation>
     </message>
     <message>
         <location filename="ui_move_resize_rectangle.py" line="72"/>
@@ -2913,23 +2871,22 @@ A vinculação pode estar incorreta. Revise após aplicar a função.</translati
     <message>
         <location filename="ui_dialog_report_code_frequencies.py" line="77"/>
         <source>Code and category frequencies: overall and by coder</source>
-        <translation>
-Frequências de código e categoria: global e por codificador</translation>
+        <translation>Frequências de código e categoria: global e por codificador</translation>
     </message>
     <message>
         <location filename="ui_dialog_report_code_frequencies.py" line="78"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Export text file&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Exportar ficheiro de texto</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Exportar arquivo de texto&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_report_code_frequencies.py" line="79"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Export Excel&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Exportar ficheiro csv</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Export csv file&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Exportar arquivo csv&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_report_code_frequencies.py" line="81"/>
         <source>Select files</source>
-        <translation>Seleccionar ficheiros</translation>
+        <translation>Selecionar arquivos</translation>
     </message>
     <message>
         <location filename="ui_dialog_report_code_frequencies.py" line="82"/>
@@ -2944,7 +2901,7 @@ Frequências de código e categoria: global e por codificador</translation>
     <message>
         <location filename="ui_dialog_report_code_frequencies.py" line="80"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select files&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Seleccionar ficheiros</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Selecionar arquivos&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -3157,17 +3114,17 @@ Frequências de código e categoria: global e por codificador</translation>
         <source>To compare coding.
 Select two coders, one file, one code.</source>
         <translation>Para comparar a codificação.
-Seleccionar dois codificadores, um ficheiro, um código.</translation>
+Seleccionar dois codificadores, um arquivos, um código.</translation>
     </message>
     <message>
         <location filename="ui_dialog_report_compare_coder_file.py" line="101"/>
         <source>Coder comparisons by file</source>
-        <translation>Comparações de codificadores por ficheiro</translation>
+        <translation>Comparações de codificadores por arquivo</translation>
     </message>
     <message>
         <location filename="ui_dialog_report_compare_coder_file.py" line="103"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Clear selection&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Seleção clara</translation>
+        <translation>Limpar Seleção</translation>
     </message>
     <message>
         <location filename="ui_dialog_report_compare_coder_file.py" line="104"/>
@@ -3177,17 +3134,17 @@ Seleccionar dois codificadores, um ficheiro, um código.</translation>
     <message>
         <location filename="ui_dialog_report_compare_coder_file.py" line="102"/>
         <source>Coders selected</source>
-        <translation>Codificadores seleccionados</translation>
+        <translation>Codificadores selecionados</translation>
     </message>
     <message>
         <location filename="ui_dialog_report_compare_coder_file.py" line="104"/>
         <source>Export ODT file</source>
-        <translation>Exportar ficheiro ODT</translation>
+        <translation>Exportar em Arquivo ODT</translation>
     </message>
     <message>
         <location filename="ui_dialog_report_compare_coder_file.py" line="98"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select two coders&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Seleccionar dois codificadores</translation>
+        <translation>Selecionar dois codificadores</translation>
     </message>
     <message>
         <location filename="ui_dialog_report_compare_coder_file.py" line="106"/>
@@ -3197,7 +3154,7 @@ Seleccionar dois codificadores, um ficheiro, um código.</translation>
     <message>
         <location filename="ui_dialog_report_compare_coder_file.py" line="105"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Run comparison.&lt;/p&gt;&lt;p&gt;Select 2 coders, 1 file, 1 code.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Executar comparação. Seleccione 2 codificadores, 1 ficheiro, 1 código.</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Executar comparação.&lt;/p&gt;&lt;p&gt;Selecione 2 codificadores, 1 arquivo, 1 código..&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -3209,13 +3166,13 @@ Seleccionar dois codificadores, um ficheiro, um código.</translation>
     </message>
     <message>
         <location filename="ui_dialog_report_comparisons.py" line="80"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Export Excel&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Export text file&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>Exportar arquivo de texto</translation>
     </message>
     <message>
         <location filename="ui_dialog_report_comparisons.py" line="81"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Run comparison&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Comparação de execução</translation>
+        <translation>Executar comparação</translation>
     </message>
     <message>
         <location filename="ui_dialog_report_comparisons.py" line="82"/>
@@ -3225,7 +3182,7 @@ Seleccionar dois codificadores, um ficheiro, um código.</translation>
     <message>
         <location filename="ui_dialog_report_comparisons.py" line="84"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Clear selection&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Seleção clara</translation>
+        <translation>Limpar Seleção</translation>
     </message>
     <message>
         <location filename="ui_dialog_report_comparisons.py" line="86"/>
@@ -3235,7 +3192,7 @@ Seleccionar dois codificadores, um ficheiro, um código.</translation>
     <message>
         <location filename="ui_dialog_report_comparisons.py" line="85"/>
         <source>Coder comparisons - text files</source>
-        <translation>Comparações de codificadores - ficheiros de texto</translation>
+        <translation>Comparações de codificadores - arquivos de texto</translation>
     </message>
     <message>
         <location filename="ui_dialog_report_comparisons.py" line="87"/>
@@ -3245,7 +3202,7 @@ Seleccionar dois codificadores, um ficheiro, um código.</translation>
     <message>
         <location filename="ui_dialog_report_comparisons.py" line="83"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Select two coders&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Seleccionar dois codificadores</translation>
+        <translation>Selecionar dois codificadores</translation>
     </message>
 </context>
 <context>
@@ -3300,17 +3257,17 @@ Wildcards for &apos;like&apos; are % and _</source>
     <message>
         <location filename="ui_report_attribute_parameters.py" line="68"/>
         <source>Clear attribute selections</source>
-        <translation>Selecção clara de atributos</translation>
+        <translation>Limpar seleção de atributos</translation>
     </message>
     <message>
         <location filename="ui_report_attribute_parameters.py" line="69"/>
         <source>Clear</source>
-        <translation>Clear</translation>
+        <translation>Limpar</translation>
     </message>
     <message>
         <location filename="ui_report_attribute_parameters.py" line="70"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Boolean Or&lt;/p&gt;&lt;p&gt;For all parameter selections&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Booleano Ou. Para todas as selecções de parâmetros</translation>
+        <translation>Booleano Ou. Para todas as seleções de parâmetros</translation>
     </message>
     <message>
         <location filename="ui_report_attribute_parameters.py" line="71"/>
@@ -3320,7 +3277,7 @@ Wildcards for &apos;like&apos; are % and _</source>
     <message>
         <location filename="ui_report_attribute_parameters.py" line="82"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Boolean And&lt;/p&gt;&lt;p&gt;For all parameter selections&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Booleano e. Para todas as selecções de parâmetros</translation>
+        <translation>Booleano e. Para todas as seleções de parâmetros</translation>
     </message>
     <message>
         <location filename="ui_report_attribute_parameters.py" line="83"/>
@@ -3333,7 +3290,7 @@ Wildcards for &apos;like&apos; are % and _</source>
     <message>
         <location filename="ui_dialog_select_items.py" line="38"/>
         <source>Select Items</source>
-        <translation>Seleccionar itens</translation>
+        <translation>Selecionar itens</translation>
     </message>
 </context>
 <context>
@@ -3371,7 +3328,7 @@ Wildcards for &apos;like&apos; are % and _</source>
     <message>
         <location filename="ui_dialog_settings.py" line="423"/>
         <source>Default project directory</source>
-        <translation>Directório de projectos por defeito</translation>
+        <translation>Diretório de projetos por padrão</translation>
     </message>
     <message>
         <location filename="ui_dialog_settings.py" line="135"/>
@@ -3386,7 +3343,7 @@ Wildcards for &apos;like&apos; are % and _</source>
     <message>
         <location filename="ui_dialog_settings.py" line="441"/>
         <source>Language</source>
-        <translation>Língua</translation>
+        <translation>Idioma</translation>
     </message>
     <message>
         <location filename="ui_dialog_settings.py" line="442"/>
@@ -3396,7 +3353,7 @@ Wildcards for &apos;like&apos; are % and _</source>
     <message>
         <location filename="ui_dialog_settings.py" line="422"/>
         <source>Backup project folder every time project is opened</source>
-        <translation>Pasta do projecto de cópia de segurança sempre que o projecto é aberto</translation>
+        <translation>Pasta de backup do projeto sempre que o projeto é aberto</translation>
     </message>
     <message>
         <location filename="ui_dialog_settings.py" line="184"/>
@@ -3445,7 +3402,7 @@ Deve guardar estes ficheiros noutro local.</translation>
     <message>
         <location filename="ui_dialog_settings.py" line="433"/>
         <source>Select another coder in this project</source>
-        <translation>Seleccionar outro programador neste projecto</translation>
+        <translation>Selecionar outro programador neste projeto</translation>
     </message>
     <message>
         <location filename="ui_dialog_settings.py" line="434"/>
@@ -3455,7 +3412,7 @@ Deve guardar estes ficheiros noutro local.</translation>
     <message>
         <location filename="ui_dialog_settings.py" line="439"/>
         <source>Current coder: </source>
-        <translation>Codificador actual: </translation>
+        <translation>Codificador atual: </translation>
     </message>
     <message>
         <location filename="ui_dialog_settings.py" line="194"/>
@@ -3466,7 +3423,8 @@ Deve guardar estes ficheiros noutro local.</translation>
         <location filename="ui_dialog_settings.py" line="436"/>
         <source>Set this name as the current coder.
 </source>
-        <translation>Defina este nome como o codificador actual.</translation>
+        <translation>Defina este nome como o codificador atual.
+</translation>
     </message>
     <message>
         <location filename="ui_dialog_settings.py" line="438"/>
@@ -3518,7 +3476,7 @@ Não recomendado, a menos que você tenha muitos arquivos grandes tornando o bac
     <message>
         <location filename="ui_dialog_settings.py" line="426"/>
         <source>Backups</source>
-        <translation>Cópias de segurança</translation>
+        <translation>Backups</translation>
     </message>
     <message>
         <location filename="ui_dialog_settings.py" line="479"/>
@@ -3741,12 +3699,12 @@ Não recomendado, a menos que você tenha muitos arquivos grandes tornando o bac
     <message>
         <location filename="ui_special_functions.py" line="111"/>
         <source>Backup project before running these functions.</source>
-        <translation>Projecto de backup antes de executar estas funções.</translation>
+        <translation>Projeto de backup antes de executar estas funções.</translation>
     </message>
     <message>
         <location filename="ui_special_functions.py" line="112"/>
         <source>Dynamic update text content</source>
-        <translation>Conteúdo dinâmico do texto de actualização</translation>
+        <translation>Conteúdo dinâmico do texto de atualização</translation>
     </message>
     <message>
         <location filename="ui_special_functions.py" line="128"/>
@@ -3756,22 +3714,22 @@ Não recomendado, a menos que você tenha muitos arquivos grandes tornando o bac
     <message>
         <location filename="ui_special_functions.py" line="115"/>
         <source>Select text file to update</source>
-        <translation>Seleccionar ficheiro de texto para actualizar</translation>
+        <translation>Selecionar arquivo de texto para atualizar</translation>
     </message>
     <message>
         <location filename="ui_special_functions.py" line="117"/>
         <source>Select replacement text file</source>
-        <translation>Seleccionar ficheiro de texto de substituição</translation>
+        <translation>Selecionar arquivo de texto de substituição</translation>
     </message>
     <message>
         <location filename="ui_special_functions.py" line="118"/>
         <source>Merge project into this project</source>
-        <translation>Fundir o projecto neste projecto</translation>
+        <translation>Fundir projeto neste projeto</translation>
     </message>
     <message>
         <location filename="ui_special_functions.py" line="120"/>
         <source>Select project to merge</source>
-        <translation>Seleccione o projecto a fundir</translation>
+        <translation>Selecione o projeto a fundir</translation>
     </message>
     <message>
         <location filename="ui_special_functions.py" line="122"/>
@@ -3781,12 +3739,12 @@ Não recomendado, a menos que você tenha muitos arquivos grandes tornando o bac
     <message>
         <location filename="ui_special_functions.py" line="113"/>
         <source>Run update text content</source>
-        <translation>Executar actualização do conteúdo do texto</translation>
+        <translation>Executar atualização do conteúdo do texto</translation>
     </message>
     <message>
         <location filename="ui_special_functions.py" line="119"/>
         <source>Run merge projects</source>
-        <translation>Executar projectos de fusão</translation>
+        <translation>Executar fusão de projetos</translation>
     </message>
     <message>
         <location filename="ui_special_functions.py" line="121"/>
@@ -3867,52 +3825,52 @@ Não recomendado, a menos que você tenha muitos arquivos grandes tornando o bac
     <message>
         <location filename="ui_dialog_text_mining.py" line="91"/>
         <source>Text Mining</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ui_dialog_text_mining.py" line="92"/>
         <source>Export selected file</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="ui_dialog_text_mining.py" line="93"/>
         <source>Analyse</source>
-        <translation type="unfinished"></translation>
+        <translation>Analise</translation>
     </message>
     <message>
         <location filename="ui_dialog_text_mining.py" line="94"/>
         <source>Coder:</source>
-        <translation type="unfinished">Codificador:</translation>
+        <translation>Codificador:</translation>
     </message>
     <message>
         <location filename="ui_dialog_text_mining.py" line="95"/>
         <source>Files</source>
-        <translation type="unfinished">Ficheiros</translation>
+        <translation>Arquivos</translation>
     </message>
     <message>
         <location filename="ui_dialog_text_mining.py" line="96"/>
         <source>Cases</source>
-        <translation type="unfinished">Casos</translation>
+        <translation>Casos</translation>
     </message>
     <message>
         <location filename="ui_dialog_text_mining.py" line="97"/>
         <source>Files coded</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivos codificados</translation>
     </message>
     <message>
         <location filename="ui_dialog_text_mining.py" line="98"/>
         <source>Cases coded</source>
-        <translation type="unfinished"></translation>
+        <translation>Casos codificados</translation>
     </message>
     <message>
         <location filename="ui_dialog_text_mining.py" line="99"/>
         <source>Analysis</source>
-        <translation type="unfinished"></translation>
+        <translation>Analise</translation>
     </message>
     <message>
         <location filename="ui_dialog_text_mining.py" line="100"/>
         <source>Analysis selections:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleção de analise:</translation>
     </message>
 </context>
 <context>
@@ -3930,7 +3888,7 @@ Não recomendado, a menos que você tenha muitos arquivos grandes tornando o bac
     <message>
         <location filename="ui_dialog_view_av.py" line="179"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Increase play rate&lt;/p&gt;&lt;p&gt;Ctrl + Shift + &amp;gt; &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Aumentar a taxa de jogo Ctrl Shift &gt;</translation>
+        <translation>Aumentar a taxa de jogo Ctrl + Shift + &amp;gt; </translation>
     </message>
     <message>
         <location filename="ui_dialog_view_av.py" line="186"/>
@@ -3940,8 +3898,7 @@ Não recomendado, a menos que você tenha muitos arquivos grandes tornando o bac
     <message>
         <location filename="ui_dialog_view_av.py" line="187"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Add a speaker name to shortcuts. In the text entry box press ctrl + n&lt;/p&gt;&lt;p&gt;Insert a speaker into transcription. In the text entry box press ctrl + 1 up to ctrl + 8 for the speakers name.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Adicionar um nome de alto-falante a atalhos. Na caixa de entrada de texto pressione ctrl + n
-Inserir um alto-falante na transcrição. Na caixa de entrada de texto, pressione ctrl + 1 até ctrl + 8 para o nome dos alto-falantes.</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;head/&amp;gt;&amp;lt;body&amp;gt;&amp;lt;p&amp;gt;Adicionar um nome de alto-falante a atalhos. Na caixa de entrada de texto pressione ctrl + n&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Inserir um alto-falante na transcrição. Na caixa de entrada de texto, pressione ctrl + 1 até ctrl + 8 para o nome dos alto-falantes.&amp;lt;/p&amp;gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_view_av.py" line="188"/>
@@ -4012,7 +3969,7 @@ Inserir um alto-falante na transcrição. Na caixa de entrada de texto, pression
     <message>
         <location filename="ui_dialog_view_av.py" line="170"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Left click on the slider button and drag left or right to change audio/video position.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>clique esquerdo no botão deslizante e arraste para a esquerda ou direita para mudar a posição do áudio/vídeo.</translation>
+        <translation>&amp;lt;html&amp;gt;&amp;lt;head/&amp;gt;&amp;lt;body&amp;gt;&amp;lt;p&amp;gt;clique esquerdo no botão deslizante e arraste para a esquerda ou direita para mudar a posição do áudio/vídeo.&amp;lt;/p&amp;gt;&amp;lt;/body&amp;gt;&amp;lt;/html&amp;gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_view_av.py" line="180"/>
@@ -4087,7 +4044,7 @@ Sublinhado vermelho = Atribuído a código ou anotação</translation>
     <message>
         <location filename="ui_dialog_view_image.py" line="51"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Memo&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">Memo</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -4105,12 +4062,12 @@ Sublinhado vermelho = Atribuído a código ou anotação</translation>
     <message>
         <location filename="ui_dialog_view_text.py" line="75"/>
         <source>Clear</source>
-        <translation>Clear</translation>
+        <translation>Limpar</translation>
     </message>
     <message>
         <location filename="ui_dialog_view_text.py" line="76"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Next&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Próximo</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Próximo&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_view_text.py" line="77"/>
@@ -4125,7 +4082,7 @@ Sublinhado vermelho = Atribuído a código ou anotação</translation>
     <message>
         <location filename="ui_dialog_view_text.py" line="80"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Previous&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>Anterior</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Anterior&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="ui_dialog_view_text.py" line="81"/>
@@ -4134,23 +4091,19 @@ Positions of the underlying codes / annotations / case-assigned may not correctl
 Do not code this text until you reload Coding - Code Text from the menu bar.</source>
         <translation>Evite selecionar seções de texto com uma combinação de não sublinhado (não codificado / anotado / atribuído a caso) e sublinhado (codificado, anotado, atribuído a caso).
 As posições dos códigos / anotações / atribuição de caso podem não se ajustar corretamente se o texto for digitado por cima ou excluído.
-Não codifique este texto até que você recarregue Codificação - Texto do código a partir da barra de menu.
-
-Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator</translation>
+Não codifique este texto até que você recarregue Codificação - Texto do código a partir da barra de menu.</translation>
     </message>
     <message>
         <location filename="ui_dialog_view_text.py" line="84"/>
         <source>Do not select sections of text with a combination of not underlined (not coded / annotated / case-assigned) and underlined (coded, annotated, case-assigned). Positions of the underlying codes / annotations / case-assigned may not correctly adjust if selected text is typed over or deleted.
 Do not code this text until you reload Coding - Code Text from the menu bar.</source>
         <translation>Não selecione seções de texto com uma combinação de não sublinhado (não codificado / anotado / atribuído a caso) e sublinhado (codificado, anotado, atribuído a caso). As posições dos códigos / anotações / atribuição de maiúsculas e minúsculas podem não se ajustar corretamente se o texto selecionado for digitado por cima ou excluído.
-Não codifique este texto até que você recarregue Codificação - Texto do código a partir da barra de menu.
-
-Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator</translation>
+Não codifique este texto até que você recarregue Codificação - Texto do código a partir da barra de menu.</translation>
     </message>
     <message>
         <location filename="ui_dialog_view_text.py" line="79"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Search uses Regex functions. &lt;/p&gt;&lt;p&gt;A dot â.â is used as a wild card, e.g. â.earsâ will match âbearsâ and âyearsâ. &lt;/p&gt;&lt;p&gt;A â?â after a character will match one or none times that character, e.g. âbears?â will match âbearâ and âbearsâ &lt;/p&gt;&lt;p&gt;&lt;span style=&quot; background-color:transparent;&quot;&gt;A â*â after a character will match zero or more times. &lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; background-color:transparent;&quot;&gt;â&lt;/span&gt;\. will match the dot symbol, â\?â will match the question mark. â\nâ will match the line ending symbol. &lt;/p&gt;&lt;p&gt;Regex cheatsheet: &lt;a href=&quot;http://www.rexegg.com/regex-quickstart.html&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#000080;&quot;&gt;www.rexegg.com/regex-quickstart.html&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">A pesquisa usa funções regex.</translation>
+        <translation>A pesquisa usa funções regex.</translation>
     </message>
 </context>
 <context>
@@ -4179,7 +4132,7 @@ Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator</transla
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="ui_main.py" line="302"/>
+        <location filename="ui_main.py" line="299"/>
         <source>QualCoder</source>
         <translation></translation>
     </message>
@@ -4189,7 +4142,7 @@ Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator</transla
         <translation type="obsolete">Selecione uma opção no menu Codificação</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="316"/>
+        <location filename="ui_main.py" line="313"/>
         <source>Coding</source>
         <translation>Codificação</translation>
     </message>
@@ -4199,7 +4152,7 @@ Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator</transla
         <translation type="obsolete">Selecione uma opção no menu Relatórios</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="317"/>
+        <location filename="ui_main.py" line="314"/>
         <source>Reports</source>
         <translation>Relatórios</translation>
     </message>
@@ -4209,34 +4162,34 @@ Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator</transla
         <translation type="obsolete">Selecione uma opção no menu Arquivos e Casos</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="315"/>
+        <location filename="ui_main.py" line="312"/>
         <source>Manage</source>
-        <translation>Gerir</translation>
+        <translation>Gerenciar</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="303"/>
+        <location filename="ui_main.py" line="300"/>
         <source>Action Log</source>
-        <translation>Diário de Acção</translation>
+        <translation>Registro do Projeto</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="311"/>
+        <location filename="ui_main.py" line="308"/>
         <source>Project</source>
         <translation>Projeto</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="312"/>
+        <location filename="ui_main.py" line="309"/>
         <source>Open Recent Project</source>
-        <translation>Projecto recente aberto</translation>
+        <translation>Abrir Projeto recente</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="313"/>
+        <location filename="ui_main.py" line="310"/>
         <source>Export</source>
-        <translation>Exportação</translation>
+        <translation>Exportar</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="314"/>
+        <location filename="ui_main.py" line="311"/>
         <source>Import</source>
-        <translation>Importação</translation>
+        <translation>Importar</translation>
     </message>
     <message>
         <location filename="ui_main.py" line="263"/>
@@ -4244,369 +4197,364 @@ Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator</transla
         <translation type="obsolete">Ficheiros e casos</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="318"/>
+        <location filename="ui_main.py" line="315"/>
         <source>Help</source>
-        <translation></translation>
+        <translation>Ajuda</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="320"/>
+        <location filename="ui_main.py" line="317"/>
         <source>Create New Project</source>
-        <translation>Criar Novo Projecto</translation>
+        <translation>Criar Novo Projeto</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="321"/>
+        <location filename="ui_main.py" line="318"/>
         <source>Open Project</source>
-        <translation>Projecto aberto</translation>
+        <translation>Abrir Projeto</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="322"/>
+        <location filename="ui_main.py" line="319"/>
         <source>Close Project</source>
-        <translation>Fechar Projecto</translation>
+        <translation>Fechar Projeto</translation>
+    </message>
+    <message>
+        <location filename="ui_main.py" line="378"/>
+        <source>Project Memo</source>
+        <translation>Memo do projeto</translation>
     </message>
     <message>
         <location filename="ui_main.py" line="381"/>
-        <source>Project Memo</source>
-        <translation>Memo do projecto</translation>
-    </message>
-    <message>
-        <location filename="ui_main.py" line="384"/>
         <source>Settings</source>
         <translation>Configurações</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="325"/>
+        <location filename="ui_main.py" line="322"/>
         <source>Exit</source>
-        <translation>Saída</translation>
+        <translation>Sair</translation>
+    </message>
+    <message>
+        <location filename="ui_main.py" line="323"/>
+        <source>Manage files</source>
+        <translation>Gerenciar arquivos</translation>
+    </message>
+    <message>
+        <location filename="ui_main.py" line="324"/>
+        <source>Manage cases</source>
+        <translation>Gerenciar casos</translation>
+    </message>
+    <message>
+        <location filename="ui_main.py" line="325"/>
+        <source>File categories</source>
+        <translation>Categorias de arquivos</translation>
     </message>
     <message>
         <location filename="ui_main.py" line="326"/>
-        <source>Manage files</source>
-        <translation>Gerir ficheiros</translation>
+        <source>Manage journals</source>
+        <translation>Gerenciar diarios</translation>
     </message>
     <message>
         <location filename="ui_main.py" line="327"/>
-        <source>Manage cases</source>
-        <translation>Gerir casos</translation>
+        <source>Code text</source>
+        <translation>Codificar texto</translation>
     </message>
     <message>
         <location filename="ui_main.py" line="328"/>
-        <source>File categories</source>
-        <translation>Categorias de ficheiros</translation>
-    </message>
-    <message>
-        <location filename="ui_main.py" line="329"/>
-        <source>Manage journals</source>
-        <translation>Gerir jornais</translation>
-    </message>
-    <message>
-        <location filename="ui_main.py" line="330"/>
-        <source>Code text</source>
-        <translation>Texto do código</translation>
-    </message>
-    <message>
-        <location filename="ui_main.py" line="331"/>
         <source>Categories</source>
         <translation>Categorias</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="332"/>
+        <location filename="ui_main.py" line="329"/>
         <source>Codebook</source>
-        <translation>Livro de código</translation>
+        <translation>Livro de códigos</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="333"/>
+        <location filename="ui_main.py" line="330"/>
         <source>Assign Attributes</source>
         <translation>Atribuir Atributos</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="334"/>
+        <location filename="ui_main.py" line="331"/>
         <source>Manage Attributes</source>
         <translation>Gerenciar Atributos</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="335"/>
+        <location filename="ui_main.py" line="332"/>
         <source>Import Attributes</source>
-        <translation>Atributos de importação</translation>
+        <translation>Importar Atributos</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="336"/>
+        <location filename="ui_main.py" line="333"/>
         <source>Coding reports</source>
         <translation>Relatórios de codificação</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="337"/>
+        <location filename="ui_main.py" line="334"/>
         <source>Coding summary</source>
         <translation>Sumário da codificação</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="339"/>
+        <location filename="ui_main.py" line="336"/>
         <source>Contents</source>
         <translation>Conteúdos</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="340"/>
+        <location filename="ui_main.py" line="337"/>
         <source>About</source>
         <translation>Sobre</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="374"/>
+        <location filename="ui_main.py" line="371"/>
         <source>Import survey</source>
-        <translation>Inquérito sobre as importações</translation>
+        <translation>Importar Survey</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="342"/>
+        <location filename="ui_main.py" line="339"/>
         <source>Manage attributes</source>
         <translation>Gerenciar atributos</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="343"/>
+        <location filename="ui_main.py" line="340"/>
         <source>Frequency table</source>
         <translation>Tabela de frequência</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="344"/>
+        <location filename="ui_main.py" line="341"/>
         <source>Coding comparison</source>
         <translation>Comparação de codificação</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="345"/>
+        <location filename="ui_main.py" line="342"/>
         <source>Text mining</source>
         <translation>Mineração de textos</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="346"/>
+        <location filename="ui_main.py" line="343"/>
         <source>View Graph</source>
         <translation>Ver Gráfico</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="348"/>
+        <location filename="ui_main.py" line="345"/>
         <source>Code image</source>
-        <translation>Imagem de código</translation>
+        <translation>Codificar imagens</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="349"/>
+        <location filename="ui_main.py" line="346"/>
         <source>Code frequencies</source>
         <translation>Frequências de código</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="350"/>
+        <location filename="ui_main.py" line="347"/>
         <source>Coding Matrix</source>
         <translation>Matriz de codificação</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="351"/>
+        <location filename="ui_main.py" line="348"/>
         <source>Code audio/video</source>
-        <translation>Código áudio/vídeo</translation>
+        <translation>Codificar áudio/vídeo</translation>
+    </message>
+    <message>
+        <location filename="ui_main.py" line="350"/>
+        <source>REFI-QDA Project export</source>
+        <translation>Exportar Projeto REFI-QDA</translation>
+    </message>
+    <message>
+        <location filename="ui_main.py" line="351"/>
+        <source>REFI-QDA Codebook export</source>
+        <translation>Exportar livros de código REFI-QDA</translation>
+    </message>
+    <message>
+        <location filename="ui_main.py" line="352"/>
+        <source>REFI-QDA Codebook import</source>
+        <translation>Importar livros de código REFI-QDA</translation>
     </message>
     <message>
         <location filename="ui_main.py" line="353"/>
-        <source>REFI-QDA Project export</source>
-        <translation>Projeto REFI-QDA exportação</translation>
+        <source>REFI-QDA Project import</source>
+        <translation>Importar Projeto REFI-QDA</translation>
     </message>
     <message>
         <location filename="ui_main.py" line="354"/>
-        <source>REFI-QDA Codebook export</source>
-        <translation>REFI-QDA Exportação de livros de código</translation>
+        <source>RQDA Project import</source>
+        <translation>Importar projetos RQDA</translation>
     </message>
     <message>
         <location filename="ui_main.py" line="355"/>
-        <source>REFI-QDA Codebook import</source>
-        <translation>REFI-QDA Importação de livros de código</translation>
+        <source>Project summary</source>
+        <translation>Sumário do projeto</translation>
     </message>
     <message>
         <location filename="ui_main.py" line="356"/>
-        <source>REFI-QDA Project import</source>
-        <translation>Projeto REFI-QDA importação</translation>
-    </message>
-    <message>
-        <location filename="ui_main.py" line="357"/>
-        <source>RQDA Project import</source>
-        <translation>Importação de projetos RQDA</translation>
-    </message>
-    <message>
-        <location filename="ui_main.py" line="358"/>
-        <source>Project summary</source>
-        <translation>Sumário do projecto</translation>
-    </message>
-    <message>
-        <location filename="ui_main.py" line="359"/>
         <source>None</source>
         <translation>Nenhum</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="360"/>
+        <location filename="ui_main.py" line="357"/>
         <source>Code relations</source>
         <translation>Relações de código</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="361"/>
+        <location filename="ui_main.py" line="358"/>
         <source>Export coded text as html</source>
         <translation>Exportar texto codificado como html</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="362"/>
+        <location filename="ui_main.py" line="359"/>
         <source>Manage bad links to files</source>
         <translation>Gerenciar links ruins para arquivos</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="363"/>
+        <location filename="ui_main.py" line="360"/>
         <source>Special functions</source>
         <translation>Funções especiais</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="364"/>
+        <location filename="ui_main.py" line="361"/>
         <source>File summary</source>
-        <translation>Sumário do ficheiro</translation>
+        <translation>Resumo do arquivo</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="365"/>
+        <location filename="ui_main.py" line="362"/>
         <source>Code summary</source>
         <translation>Resumo do código</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="366"/>
+        <location filename="ui_main.py" line="363"/>
         <source>Coding comparison by file</source>
-        <translation>Comparação da codificação por ficheiro</translation>
+        <translation>Comparação da codificação por arquivo</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="367"/>
+        <location filename="ui_main.py" line="364"/>
         <source>Code by case</source>
         <translation>Código por caso</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="368"/>
+        <location filename="ui_main.py" line="365"/>
         <source>Charts</source>
         <translation>Gráficos</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="304"/>
+        <location filename="ui_main.py" line="301"/>
         <source>Select an option in the Files and Cases menu. </source>
         <translation>Selecione uma opção no menu Arquivos e Casos. </translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="306"/>
+        <location filename="ui_main.py" line="303"/>
         <source>Select an option in the Coding menu. </source>
         <translation>Selecione uma opção no menu Codificação. </translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="308"/>
+        <location filename="ui_main.py" line="305"/>
         <source>Select an option in the Reports menu. </source>
         <translation>Selecione uma opção no menu Relatórios. </translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="347"/>
+        <location filename="ui_main.py" line="344"/>
         <source>Export codebook as ODT file</source>
         <translation>Exportar livro de códigos como arquivo ODT</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="369"/>
+        <location filename="ui_main.py" line="366"/>
         <source>Export codebook with memos as ODT file</source>
         <translation>Exportar livro de códigos com memorandos como arquivo ODT</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="370"/>
+        <location filename="ui_main.py" line="367"/>
         <source>Import references RIS format</source>
         <translation>Importar referências formato RIS</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="371"/>
+        <location filename="ui_main.py" line="368"/>
         <source>Manage references</source>
         <translation>Gerenciar referências</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="338"/>
+        <location filename="ui_main.py" line="335"/>
         <source>Database queries</source>
         <translation>Consultas à base de dados</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="372"/>
+        <location filename="ui_main.py" line="369"/>
         <source>Colour scheme</source>
         <translation>Esquema de cores</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="373"/>
+        <location filename="ui_main.py" line="370"/>
         <source>Import plain text codes list</source>
         <translation>Importar lista de códigos de texto simples</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="375"/>
+        <location filename="ui_main.py" line="372"/>
         <source>Menu Key Shortcuts</source>
-        <translation>Atalhos das teclas de menu</translation>
+        <translation>Menu de Atalhos de teclas</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="376"/>
+        <location filename="ui_main.py" line="373"/>
         <source>Import twitter data</source>
         <translation>Importar dados do twitter</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="382"/>
+        <location filename="ui_main.py" line="379"/>
         <source>AI Chat</source>
         <translation>Bate-papo com IA</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="319"/>
+        <location filename="ui_main.py" line="316"/>
         <source>AI</source>
         <translation>IA</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="377"/>
+        <location filename="ui_main.py" line="374"/>
         <source>Code pdf</source>
-        <translation>Código pdf</translation>
+        <translation>Codificar pdf</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="378"/>
+        <location filename="ui_main.py" line="375"/>
         <source>Code text exact matches</source>
-        <translation>Correspondências exatas de texto de código</translation>
+        <translation>Codificar texto com correspondencia exata</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="379"/>
+        <location filename="ui_main.py" line="376"/>
         <source>Setup Wizard</source>
         <translation>Assistente de configuração</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="380"/>
+        <location filename="ui_main.py" line="377"/>
         <source>Rebuild Internal Memory</source>
         <translation>Reconstrução da memória interna</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="383"/>
+        <location filename="ui_main.py" line="380"/>
         <source>AI Assisted Coding</source>
         <translation>Codificação assistida por IA</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="385"/>
+        <location filename="ui_main.py" line="382"/>
         <source>AI related Settings</source>
         <translation>Configurações relacionadas à IA</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="386"/>
+        <location filename="ui_main.py" line="383"/>
         <source>Prompt library</source>
-        <translation>Biblioteca de avisos</translation>
+        <translation>Biblioteca de prompts</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="387"/>
+        <location filename="ui_main.py" line="384"/>
         <source>Code organiser</source>
         <translation>Organizador de códigos</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="388"/>
+        <location filename="ui_main.py" line="385"/>
         <source>Codes by text segments</source>
         <translation>Códigos por segmentos de texto</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="389"/>
+        <location filename="ui_main.py" line="386"/>
         <source>AI assisted coding</source>
         <translation>Codificação assistida por IA</translation>
     </message>
     <message>
-        <location filename="ui_main.py" line="390"/>
+        <location filename="ui_main.py" line="387"/>
         <source>Code co-occurrence</source>
         <translation>Co-ocorrência de código</translation>
-    </message>
-    <message>
-        <location filename="ui_main.py" line="391"/>
-        <source>Code comparison table</source>
-        <translation type="unfinished">Tabela de comparação de código</translation>
     </message>
 </context>
 </TS>
